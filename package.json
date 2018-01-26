@@ -67,7 +67,7 @@
     }
   },
   "dependencies": {
-    "@cycle/run": "*"
+    "@cycle/run": "^4.1.0"
   },
   "peerDependencies": {
     "xstream": "*"
